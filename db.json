@@ -18,13 +18,22 @@
             "id": 1,
             "priority": 1,
             "remainingSlaTime": "2:15",
-            "taskName": "tarea 1"
+            "taskName": "tarea 1",
+            "onGoing":true
         },
         {
             "id": 2,
             "priority": 2,
             "remainingSlaTime": "3:15",
-            "taskName": "tarea 1"
+            "taskName": "tarea 1",
+            "onGoing":false
+        },
+        {
+            "id": 3,
+            "priority": 3,
+            "remainingSlaTime": "4:15",
+            "taskName": "tarea 3",
+            "onGoing":false
         }
     ]
 }
