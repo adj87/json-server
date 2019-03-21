@@ -54,7 +54,7 @@
             "nombre": "CSD"
         }
     ],
-    "employee": [
+    "employees": [
         {
             "id": 1,
             "nombre": "Juan del rio"
