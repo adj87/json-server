@@ -1,78 +1,75 @@
 {
-    "slots": [
-        {
-            "id": 1,
-            "title": "Slot 1",
-            "start": "14/05/2018",
-            "end": "15/05/2018"
-        },
-        {
-            "id": 2,
-            "title": "Slot 2",
-            "start": "14/05/2018",
-            "end": "15/05/2018"
-        }
-    ],
-    "tasks": [
-        {
-            "id": 1,
-            "priority": 1,
-            "remainingSlaTime": "2:15",
-            "taskName": "tarea 1",
-            "onGoing":false
-        },
-        {
-            "id": 2,
-            "priority": 2,
-            "remainingSlaTime": "3:15",
-            "taskName": "tarea 1",
-            "onGoing":false
-        },
-        {
-            "id": 3,
-            "priority": 3,
-            "remainingSlaTime": "4:15",
-            "taskName": "tarea 3",
-            "onGoing":false
-        }
-    ],
-        "technologicalGroup": [
-        {
-            "id": 1,
-            "nombre": "DBA"
-            
-        },
-        {
-            "id": 2,
-            "nombre" : "CSD"
-        },
-                {
-            "id": 3,
-            "nombre": "OJA"
-            
-        },
-        {
-            "id": 2,
-            "nombre" : "CSD"
-        }],
-        "employee": [
-        {
-            "id": 1,
-            "nombre": "Juan del rio"
-            
-        },
-        {
-            "id": 2,
-            "nombre" : "Gabriel"
-        },
-                {
-            "id": 3,
-            "nombre": "Alberto"
-            
-        },
-        {
-            "id": 2,
-            "nombre" : "Antonio"
-        }
-    ]
+  "slots": [
+    {
+      "id": 1,
+      "title": "Slot 1",
+      "start": "14/05/2018",
+      "end": "15/05/2018"
+    },
+    {
+      "id": 2,
+      "title": "Slot 2",
+      "start": "14/05/2018",
+      "end": "15/05/2018"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "priority": 1,
+      "remainingSlaTime": "2:15",
+      "taskName": "tarea 1",
+      "onGoing": false
+    },
+    {
+      "id": 2,
+      "priority": 2,
+      "remainingSlaTime": "3:15",
+      "taskName": "tarea 1",
+      "onGoing": false
+    },
+    {
+      "id": 3,
+      "priority": 3,
+      "remainingSlaTime": "4:15",
+      "taskName": "tarea 3",
+      "onGoing": false
+    }
+  ],
+  "technologicalGroup": [
+    {
+      "id": 1,
+      "nombre": "DBA"
+    },
+    {
+      "id": 2,
+      "nombre": "CSD"
+    },
+    {
+      "id": 3,
+      "nombre": "OJA"
+    },
+    {
+      "id": 2,
+      "nombre": "CSD"
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "nombre": "Juan del rio"
+    },
+    {
+      "id": 2,
+      "nombre": "Gabriel"
+    },
+    {
+      "id": 3,
+      "nombre": "Alberto"
+    },
+    {
+      "id": 2,
+      "nombre": "Antonio"
+    }
+  ]
 }
