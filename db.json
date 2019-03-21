@@ -36,7 +36,7 @@
             "onGoing": false
         }
     ],
-    "techGroup": [
+    "techGroups": [
         {
             "id": 1,
             "nombre": "DBA"
