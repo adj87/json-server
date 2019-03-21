@@ -39,7 +39,7 @@
         "technologicalGroup": [
         {
             "id": 1,
-            "nombre": "DBA",
+            "nombre": "DBA"
             
         },
         {
@@ -48,7 +48,7 @@
         },
                 {
             "id": 3,
-            "nombre": "OJA",
+            "nombre": "OJA"
             
         },
         {
@@ -58,7 +58,7 @@
         "employee": [
         {
             "id": 1,
-            "nombre": "Juan del rio",
+            "nombre": "Juan del rio"
             
         },
         {
@@ -67,7 +67,7 @@
         },
                 {
             "id": 3,
-            "nombre": "Alberto",
+            "nombre": "Alberto"
             
         },
         {
