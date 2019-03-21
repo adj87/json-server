@@ -19,7 +19,7 @@
             "priority": 1,
             "remainingSlaTime": "2:15",
             "taskName": "tarea 1",
-            "onGoing":true
+            "onGoing":false
         },
         {
             "id": 2,
