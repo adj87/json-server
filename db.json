@@ -36,7 +36,7 @@
             "onGoing": false
         }
     ],
-    "technologicalGroup": [
+    "techGroup": [
         {
             "id": 1,
             "nombre": "DBA"
@@ -56,18 +56,22 @@
     ],
     "employees": [
         {
+            "techGroupId":1,
             "id": 1,
             "nombre": "Juan del rio"
         },
         {
+            "techGroupId":1,
             "id": 2,
             "nombre": "Gabriel"
         },
         {
+            "techGroupId":2,
             "id": 3,
             "nombre": "Alberto"
         },
         {
+            "techGroupId":2,
             "id": 2,
             "nombre": "Antonio"
         }
