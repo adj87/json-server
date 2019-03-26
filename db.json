@@ -13,6 +13,35 @@
             "end": "15/05/2018"
         }
     ],
+        "imputations": [
+        {
+            "userId":1,
+            "id": 1,
+            "title": "Imputations 1",
+            "start": "14/05/2018",
+            "end": "15/05/2018"
+        },
+        {
+            "userId":1,
+            "id": 2,
+            "title": "Imputations 2",
+            "start": "14/05/2018",
+            "end": "15/05/2018"
+        },{
+            "userId":2,
+            "id": 3,
+            "title": "Imputations 3",
+            "start": "14/05/2018",
+            "end": "15/05/2018"
+        },
+        {
+            "userId":2,
+            "id": 4,
+            "title": "Imputations 4",
+            "start": "14/05/2018",
+            "end": "15/05/2018"
+        }
+    ],
     "tasks": [
         {
             "id": 1,
